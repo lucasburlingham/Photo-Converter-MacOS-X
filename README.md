@@ -9,7 +9,7 @@ Need your photos on your MacOS X Device quickly converted to TIFF, PNG, JPG, JPE
    
    <li>
   <code>
-    <a href="https://github.com/lucasburlingham/Photo-Converter-MacOS-X/raw/master/Picture%20Converter%20MacOS.zip">Photo Converter Zipfile (Extract and double click to open)</a>
+    <a href="https://github.com/lucasburlingham/Photo-Converter-MacOS-X/raw/master/Picture%20Converter.zip">Photo Converter Zipfile (Extract and double click to open)</a>
       </code>
     </li>
    
